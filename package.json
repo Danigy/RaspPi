@@ -1,0 +1,17 @@
+{
+  "name": "raspi",
+  "version": "0.1.0",
+  "description": "Raspberry PI's program",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lasangreesroja",
+  "license": "ISC",
+  "dependencies": {
+    "edudb": "^1.3.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "uuid-js": "^0.7.5"
+  }
+}
